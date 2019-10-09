@@ -4,21 +4,45 @@
 
 .App-logo {
   height: 40min;
-}
 
+}
 .App-header {
   color: white;
 }
 
 .Body {
   background: #F9F7F4;
-  height: 1000px;
+  height: 750px;
   width: 68%;
   margin: 0 auto;
   border-top-width: 0.0625rem;
   border-top-style: solid;
   border-top-color: rgb(209, 201, 192);
+}
 
+.Body h1 {
+  text-align: left;
+  padding-left: 15px;
+  color: #01216;
+  display: block
+}
+
+.Body h3 {
+  text-align:left;
+  padding-left: 15px;
+  color: #6B5E51;
+}
+
+.Body label {
+  display: block;
+  text-align: left;
+  padding-left: 15px;
+}
+
+.Body input {
+  display: block;
+  padding-left: 15px;
+  padding-top: 15px;
 }
 
 .App-link {
