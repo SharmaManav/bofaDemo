@@ -18,4 +18,9 @@ a more robust application flow.
 
 OAuth2.0 with JWT is also something I'd like to include rather than updating the developer token constantly.
 
+State management (Perhaps dealing with if a file is uploaded or not)
+
+### Overall
+
+I really enjoyed the project and it helped me brush up on some HTML/CSS/Javascript. While I've always gravitated to more backend programming, something about this project piqued my curiosity about both design and frontend work with frameworks like React. Moving forward I think frontend programming is something I'd like to pay a little more attention to as a programmer (and maybe as an artist...)
 
