@@ -1,8 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 A demo application of a Bank of America and how it can can utilize Box to streamline its loan application process
-## Available Scripts
 
-In the project directory, you can run:
 
 ### Design Decisions
 
